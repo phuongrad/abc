@@ -14,7 +14,7 @@
     while (length--) {
         method = methods[length];
 
-        // Only stub undefined methods.
+        // Only stub undefined methods. 001
         if (!console[method]) {
             console[method] = noop;
         }
