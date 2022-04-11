@@ -5,7 +5,7 @@
 
     <name> -- <role> -- <twitter>
 
-# THANKSxxxx04555
+# THANKS Hello stash v2
 
     <name>
 
